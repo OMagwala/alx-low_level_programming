@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	intia;
+	int = i;
 	long j = 1, k = 2;
 
 	while (i < 50)
